@@ -56,9 +56,12 @@ git clone https://github.com/Managhera/Quiz-app.git  <br>
 <br/>
 
 <h2>🧑‍💻 Author : </h2>
-Developed by Aghera Man  
-📧 [manpatel0206@gamil.com]  
-🔗 [Linkdin](https://www.linkedin.com/in/man-aghera-04964b319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <br> 
+Developed by Aghera Man  <br>
+📧 [manpatel0206@gmail.com]
+
+<br/>
+
+🔗 [Linkdin](https://www.linkedin.com/in/man-aghera-04964b319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 <br/>
